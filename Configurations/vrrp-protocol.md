@@ -1,3 +1,5 @@
+#VRRP PROTOCOL
+
 ***Technical Tip: FortiGate VRRP configuration and debug***
 
   This acticle descripbes the Virtual redendancy protocol (VRRP) automatic assignment of available internet protocol (IP) of a router to participating hosts. 
