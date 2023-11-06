@@ -24,7 +24,7 @@ This acticle descripbes the Virtual redendancy protocol (VRRP) automatic assignm
 
 **Example for Vrrp configure**
 
-      configure system interface
+    #  configure system interface
         edit interface xxx
         set vrrp-virtual-mac enable // enable virtual mac-address
         config vrrp
