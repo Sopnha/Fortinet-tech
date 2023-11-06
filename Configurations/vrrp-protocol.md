@@ -1,4 +1,4 @@
-#VRRP PROTOCOL
+# VRRP PROTOCOL
 
 ***Technical Tip: FortiGate VRRP configuration and debug***
 
